@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a Master of Science in Computer Science graduate student at Columbia University and a passionate Former Software Engineer at Bosch Global Software Technologies specializing in Web Development. I love creating beautiful and efficient web applications that enhance user experience. My journey in web development is driven by my enthusiasm for learning new technologies and building projects that challenge my skills.
+I'm a Master of Science in Computer Science graduate student at Columbia University and a passionate Former Software Engineer at Bosch Global Software Technologies specializing in Software Systems and Machine Learning. I love creating efficient web applications that enhance user experience. 
 
 👨‍💻 Check out my portfolio for some of my work: [Geethanjali's Portfolio](https://geethanjali-p-github-io.vercel.app/).
 
