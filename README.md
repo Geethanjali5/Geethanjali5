@@ -30,10 +30,10 @@ Here's a glimpse of the technologies I work with in web development:
 ## 📫 How to Reach Me
 
 - Email: [mailto:p.geethanjali5561@gmail.com](mailto:p.geethanjali5561@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/geethanjali-p-b4a82b1b3/](https://www.linkedin.com/in/geethanjali-p-b4a82b1b3/)
+- LinkedIn: [https://www.linkedin.com/in/geethanjali-p-b4a82b1b3/](https://www.linkedin.com/in/geethanjali-p/)
 
 
 
-Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/geethanjali-p-b4a82b1b3/). Let's innovate and create together!
+Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/geethanjali-p/). Let's innovate and create together!
 
 Thank you for stopping by my profile!
