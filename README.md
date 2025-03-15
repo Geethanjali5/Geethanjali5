@@ -34,8 +34,6 @@ Here's a glimpse of the technologies I work with in web development:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Geethanjali5&theme=gruvbox&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Geethanjali5&label=Profile%20views&color=0e75b6&style=flat" alt=“Geethanjali5" /> </p>
-
 Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/geethanjali-p/). Let's innovate and create together!
 
 Thank you for stopping by my profile!
