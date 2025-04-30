@@ -29,8 +29,8 @@ Here's a glimpse of the technologies I work with in web development:
 
 ## 📫 How to Reach Me
 
-- Email: [mailto:p.geethanjali5561@gmail.com](mailto:p.geethanjali5561@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/geethanjali-p-b4a82b1b3/](https://www.linkedin.com/in/geethanjali-p/)
+- Email: [p.geethanjali5561@gmail.com](mailto:p.geethanjali5561@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/geethanjali-p/](https://www.linkedin.com/in/geethanjali-p/)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Geethanjali5&theme=gruvbox&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)
 
