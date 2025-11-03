@@ -32,7 +32,6 @@ Here's a glimpse of the technologies I work with in web development:
 - Email: [p.geethanjali5561@gmail.com](mailto:p.geethanjali5561@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/geethanjali-p/](https://www.linkedin.com/in/geethanjali-p/)
 
-% [![GitHub Streak](https://streak-stats.demolab.com?user=Geethanjali5&theme=gruvbox&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)
 
 Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/geethanjali-p/). Let's innovate and create together!
 
